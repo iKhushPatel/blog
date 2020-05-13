@@ -1,2 +1,2 @@
-# blog.github.io
+# blog.khushpatel.com
 Khush Patel Blog
